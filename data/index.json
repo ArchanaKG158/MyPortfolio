@@ -1,0 +1,55 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/tag.png",
+      "title": "Front-End",
+      "description": "Develop and implement front-end components using React.js, ensuring a responsive and user-friendly interface. "
+    },
+    {
+      "id": "2",
+      "src": "./img/frontend.png",
+      "title": "Back-End",
+      "description": "Back End skills with Node.js and Express.js. Design MongoDB database schemas, ensuring data integrity. Usage of JWT tokens to enhance application security."
+    },
+    {
+      "id": "3",
+      "src": "./img/ui.png",
+      "title": "UI Developer",
+      "description": "Programming, collaborating with developer teams, overseeing visual design stages, encouraging simplicity, and creating effective process flows."
+    },
+    {
+      "id": "4",
+      "src": "./img/backend.png",
+      "title": "Quality Analyst",
+      "description": "Identifying critical paths and high-risk points in E2E verification activities ensuring robust and reliable software solutions."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/marque.png",
+      "title": "Marque-Effect",
+      "description": "Sample Marque effect task using Html, CSS and JavaScript.",
+      "Link": "View In GitHub",
+      "url": "https://github.com/ArchanaKG158/Marque_Effect"
+    },
+    {
+      "id": "2",
+      "src": "./img/mern.png",
+      "title": "Insert Student Info",
+      "description": "A small project to insert Student information by the Teacher using technologies -- React.js, Node.js, MongoDB, Express and JavaScript. ",
+      "Link": "View In GitHub",
+      "url": "https://github.com/ArchanaKG158/Insert_StudentInfo"
+    },
+    {
+      "id": "3",
+      "src": "./img/food.png",
+      "title": "Foodie Jungle Resto",
+      "description": "Foodie jungle web app is for ordering food from restaurant. Complete Project is built using MERN technology with added JWT tokens to enhance application security.",
+      "Link": "View In GitHub",
+      "url": "https://github.com/ArchanaKG158/FoodieJungle_MERN"
+    }
+  ]
+}
